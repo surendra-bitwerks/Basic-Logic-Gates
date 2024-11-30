@@ -1,0 +1,8 @@
+Added Component: Designator=P1(Power-Point)
+Added Component: Designator=P2(Power-Point)
+Added Component: Designator=SC1(Screw-Hole-Point)
+Added Component: Designator=SC2(Screw-Hole-Point)
+Added Component: Designator=SC3(Screw-Hole-Point)
+Added Component: Designator=SC4(Screw-Hole-Point)
+Added Pin To Net: NetName=+5 Pin=P1-1
+Added Pin To Net: NetName=GND Pin=P2-1

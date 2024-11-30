@@ -1,0 +1,20 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Basic-Logic-Gates-PCB.PcbDoc   9/22/2024  2:31:13 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Basic-Logic-Gates-PCB.TXT
+ASCII RectHoles File : Basic-Logic-Gates-PCB-RectHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.5mm (20mil)                                             Rectangle         3         PTH        23.94mm (0.94inch)
+T2      0.6mm (24mil)                                             Round             22        PTH        339.07mm (13.35inch)
+T3      0.8mm (31mil)                                             Round             22        PTH        320.57mm (12.62inch)
+T4      0.86mm (34mil)                                            Round             84        PTH        543.64mm (21.40inch)
+T5      2.8mm (110mil)                                            Round             100       PTH        1793.80mm (70.62inch)
+T6      3.7mm (146mil)                                            Round             4         PTH        655.56mm (25.81inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              235
+
+Total Processing Time (hh:mm:ss) : 00:00:00

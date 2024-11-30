@@ -1,0 +1,8 @@
+Added Component: Designator=D11(LED)
+Added Component: Designator=R11(TH-Resistor)
+Added Pin To Net: NetName=GND Pin=D11-1
+Added Pin To Net: NetName=+VCC Pin=R11-1
+Change Net Name : Old Net Name=+VCC New Net Name=+5
+Added Pin To Net: NetName=NetD11_2 Pin=D11-2
+Added Pin To Net: NetName=NetD11_2 Pin=R11-2
+Added Net: Name=NetD11_2

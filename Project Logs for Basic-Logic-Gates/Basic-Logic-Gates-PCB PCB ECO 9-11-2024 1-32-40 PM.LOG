@@ -1,0 +1,80 @@
+Added Component: Designator=J73(Connector)
+Added Component: Designator=J74(Connector)
+Added Component: Designator=J75(Connector)
+Added Component: Designator=J76(Connector)
+Added Component: Designator=J77(Connector)
+Added Component: Designator=J78(Connector)
+Added Component: Designator=J79(Connector)
+Added Component: Designator=J80(Connector)
+Added Component: Designator=J81(Connector)
+Added Component: Designator=J82(Connector)
+Added Component: Designator=J83(Connector)
+Added Component: Designator=J84(Connector)
+Added Component: Designator=J85(Connector)
+Added Component: Designator=J86(Connector)
+Added Component: Designator=J87(Connector)
+Added Component: Designator=J88(Connector)
+Added Component: Designator=J89(Connector)
+Added Component: Designator=J90(Connector)
+Added Component: Designator=J91(Connector)
+Added Component: Designator=J92(Connector)
+Added Component: Designator=J93(Connector)
+Added Component: Designator=J94(Connector)
+Added Component: Designator=J95(Connector)
+Added Component: Designator=J96(Connector)
+Added Component: Designator=J97(Connector)
+Added Component: Designator=J98(Connector)
+Added Component: Designator=J99(Connector)
+Added Component: Designator=J100(Connector)
+Added Component: Designator=J101(Connector)
+Added Component: Designator=J102(Connector)
+Added Component: Designator=J103(Connector)
+Added Component: Designator=J104(Connector)
+Added Component: Designator=J105(Connector)
+Added Component: Designator=J106(Connector)
+Added Component: Designator=J107(Connector)
+Added Component: Designator=J108(Connector)
+Added Component: Designator=J109(Connector)
+Added Component: Designator=J110(Connector)
+Added Component: Designator=J111(Connector)
+Added Component: Designator=J112(Connector)
+Added Pin To Net: NetName=+5 Pin=J73-1
+Added Pin To Net: NetName=+5 Pin=J74-1
+Added Pin To Net: NetName=+5 Pin=J75-1
+Added Pin To Net: NetName=+5 Pin=J76-1
+Added Pin To Net: NetName=+5 Pin=J77-1
+Added Pin To Net: NetName=+5 Pin=J78-1
+Added Pin To Net: NetName=+5 Pin=J79-1
+Added Pin To Net: NetName=+5 Pin=J80-1
+Added Pin To Net: NetName=+5 Pin=J81-1
+Added Pin To Net: NetName=+5 Pin=J82-1
+Added Pin To Net: NetName=+5 Pin=J83-1
+Added Pin To Net: NetName=+5 Pin=J84-1
+Added Pin To Net: NetName=+5 Pin=J85-1
+Added Pin To Net: NetName=+5 Pin=J86-1
+Added Pin To Net: NetName=+5 Pin=J87-1
+Added Pin To Net: NetName=+5 Pin=J88-1
+Added Pin To Net: NetName=+5 Pin=J89-1
+Added Pin To Net: NetName=+5 Pin=J90-1
+Added Pin To Net: NetName=+5 Pin=J91-1
+Added Pin To Net: NetName=+5 Pin=J92-1
+Added Pin To Net: NetName=GND Pin=J93-1
+Added Pin To Net: NetName=GND Pin=J94-1
+Added Pin To Net: NetName=GND Pin=J95-1
+Added Pin To Net: NetName=GND Pin=J96-1
+Added Pin To Net: NetName=GND Pin=J97-1
+Added Pin To Net: NetName=GND Pin=J98-1
+Added Pin To Net: NetName=GND Pin=J99-1
+Added Pin To Net: NetName=GND Pin=J100-1
+Added Pin To Net: NetName=GND Pin=J101-1
+Added Pin To Net: NetName=GND Pin=J102-1
+Added Pin To Net: NetName=GND Pin=J103-1
+Added Pin To Net: NetName=GND Pin=J104-1
+Added Pin To Net: NetName=GND Pin=J105-1
+Added Pin To Net: NetName=GND Pin=J106-1
+Added Pin To Net: NetName=GND Pin=J107-1
+Added Pin To Net: NetName=GND Pin=J108-1
+Added Pin To Net: NetName=GND Pin=J109-1
+Added Pin To Net: NetName=GND Pin=J110-1
+Added Pin To Net: NetName=GND Pin=J111-1
+Added Pin To Net: NetName=GND Pin=J112-1

@@ -1,0 +1,60 @@
+Added Component: Designator=D12(LED)
+Added Component: Designator=D13(LED)
+Added Component: Designator=J87(Connector)
+Added Component: Designator=J102(Connector)
+Added Component: Designator=J103(Connector)
+Added Component: Designator=J104(Connector)
+Added Component: Designator=J105(Connector)
+Added Component: Designator=J106(Connector)
+Added Component: Designator=J107(Connector)
+Added Component: Designator=J108(Connector)
+Added Component: Designator=J109(Connector)
+Added Component: Designator=J110(Connector)
+Added Component: Designator=J111(Connector)
+Added Component: Designator=J112(Connector)
+Added Component: Designator=R12(TH-Resistor)
+Added Component: Designator=R13(TH-Resistor)
+Added Pin To Net: NetName=GND Pin=D12-1
+Added Pin To Net: NetName=GND Pin=D13-1
+Added Pin To Net: NetName=NetD12_2 Pin=D12-2
+Added Pin To Net: NetName=NetD12_2 Pin=R12-2
+Added Net: Name=NetD12_2
+Added Pin To Net: NetName=NetD13_2 Pin=D13-2
+Added Pin To Net: NetName=NetD13_2 Pin=R13-2
+Added Net: Name=NetD13_2
+Added Pin To Net: NetName=NetJ87_1 Pin=J87-1
+Added Pin To Net: NetName=NetJ87_1 Pin=R12-1
+Added Net: Name=NetJ87_1
+Added Pin To Net: NetName=NetJ102_1 Pin=J102-1
+Added Pin To Net: NetName=NetJ102_1 Pin=R1-1
+Added Net: Name=NetJ102_1
+Added Pin To Net: NetName=NetJ103_1 Pin=J103-1
+Added Pin To Net: NetName=NetJ103_1 Pin=R2-1
+Added Net: Name=NetJ103_1
+Added Pin To Net: NetName=NetJ104_1 Pin=J104-1
+Added Pin To Net: NetName=NetJ104_1 Pin=R3-1
+Added Net: Name=NetJ104_1
+Added Pin To Net: NetName=NetJ105_1 Pin=J105-1
+Added Pin To Net: NetName=NetJ105_1 Pin=R4-1
+Added Net: Name=NetJ105_1
+Added Pin To Net: NetName=NetJ106_1 Pin=J106-1
+Added Pin To Net: NetName=NetJ106_1 Pin=R5-1
+Added Net: Name=NetJ106_1
+Added Pin To Net: NetName=NetJ107_1 Pin=J107-1
+Added Pin To Net: NetName=NetJ107_1 Pin=R13-1
+Added Net: Name=NetJ107_1
+Added Pin To Net: NetName=NetJ108_1 Pin=J108-1
+Added Pin To Net: NetName=NetJ108_1 Pin=R6-1
+Added Net: Name=NetJ108_1
+Added Pin To Net: NetName=NetJ109_1 Pin=J109-1
+Added Pin To Net: NetName=NetJ109_1 Pin=R7-1
+Added Net: Name=NetJ109_1
+Added Pin To Net: NetName=NetJ110_1 Pin=J110-1
+Added Pin To Net: NetName=NetJ110_1 Pin=R8-1
+Added Net: Name=NetJ110_1
+Added Pin To Net: NetName=NetJ111_1 Pin=J111-1
+Added Pin To Net: NetName=NetJ111_1 Pin=R9-1
+Added Net: Name=NetJ111_1
+Added Pin To Net: NetName=NetJ112_1 Pin=J112-1
+Added Pin To Net: NetName=NetJ112_1 Pin=R10-1
+Added Net: Name=NetJ112_1

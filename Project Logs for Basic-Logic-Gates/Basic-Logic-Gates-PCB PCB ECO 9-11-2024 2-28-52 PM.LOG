@@ -1,0 +1,38 @@
+Removed Pin From Net: NetName=+5 Pin=J88-1
+Removed Pin From Net: NetName=+5 Pin=J89-1
+Removed Pin From Net: NetName=+5 Pin=J90-1
+Removed Pin From Net: NetName=+5 Pin=J91-1
+Removed Pin From Net: NetName=+5 Pin=J92-1
+Removed Pin From Net: NetName=GND Pin=J108-1
+Removed Pin From Net: NetName=GND Pin=J109-1
+Removed Pin From Net: NetName=GND Pin=J110-1
+Removed Pin From Net: NetName=GND Pin=J111-1
+Removed Pin From Net: NetName=GND Pin=J112-1
+Change Component Designator: OldDesignator=J93 NewDesignator=J88
+Change Component Designator: OldDesignator=J94 NewDesignator=J89
+Change Component Designator: OldDesignator=J95 NewDesignator=J90
+Change Component Designator: OldDesignator=J96 NewDesignator=J91
+Change Component Designator: OldDesignator=J97 NewDesignator=J92
+Change Component Designator: OldDesignator=J98 NewDesignator=J93
+Change Component Designator: OldDesignator=J99 NewDesignator=J94
+Change Component Designator: OldDesignator=J100 NewDesignator=J95
+Change Component Designator: OldDesignator=J101 NewDesignator=J96
+Change Component Designator: OldDesignator=J102 NewDesignator=J97
+Change Component Designator: OldDesignator=J103 NewDesignator=J98
+Change Component Designator: OldDesignator=J104 NewDesignator=J99
+Change Component Designator: OldDesignator=J105 NewDesignator=J100
+Change Component Designator: OldDesignator=J106 NewDesignator=J101
+Change Component Designator: OldDesignator=J107 NewDesignator=J102
+Change Component Designator: OldDesignator=R1 NewDesignator=R5
+Change Component Designator: OldDesignator=R2 NewDesignator=R4
+Change Component Designator: OldDesignator=R4 NewDesignator=R2
+Change Component Designator: OldDesignator=R5 NewDesignator=R1
+Change Component Designator: OldDesignator=R6 NewDesignator=R10
+Change Component Designator: OldDesignator=R7 NewDesignator=R9
+Change Component Designator: OldDesignator=R9 NewDesignator=R7
+Change Component Designator: OldDesignator=R10 NewDesignator=R6
+Change Component Designator: OldDesignator=U1 NewDesignator=U2
+Change Component Designator: OldDesignator=U2 NewDesignator=U1
+Change Component Designator: OldDesignator=U4 NewDesignator=U6
+Change Component Designator: OldDesignator=U5 NewDesignator=U4
+Change Component Designator: OldDesignator=U6 NewDesignator=U5

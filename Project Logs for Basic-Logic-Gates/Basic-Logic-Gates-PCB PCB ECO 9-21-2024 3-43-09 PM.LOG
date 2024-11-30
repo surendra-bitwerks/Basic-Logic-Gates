@@ -1,0 +1,104 @@
+Removed Pin From Net: NetName=NetJ37_1 Pin=J37-1
+Removed Pin From Net: NetName=NetJ38_1 Pin=J38-1
+Removed Pin From Net: NetName=NetJ39_1 Pin=J39-1
+Removed Pin From Net: NetName=NetJ40_1 Pin=J40-1
+Change Component Designator: OldDesignator=J38 NewDesignator=J37
+Change Component Designator: OldDesignator=J39 NewDesignator=J38
+Change Component Designator: OldDesignator=J40 NewDesignator=J39
+Change Component Designator: OldDesignator=J41 NewDesignator=J40
+Change Component Designator: OldDesignator=J43 NewDesignator=J49
+Change Component Designator: OldDesignator=J44 NewDesignator=J50
+Change Component Designator: OldDesignator=J45 NewDesignator=J51
+Change Component Designator: OldDesignator=J46 NewDesignator=J52
+Change Component Designator: OldDesignator=J47 NewDesignator=J53
+Change Component Designator: OldDesignator=J48 NewDesignator=J54
+Change Component Designator: OldDesignator=J49 NewDesignator=J43
+Change Component Designator: OldDesignator=J50 NewDesignator=J44
+Change Component Designator: OldDesignator=J51 NewDesignator=J45
+Change Component Designator: OldDesignator=J52 NewDesignator=J46
+Change Component Designator: OldDesignator=J53 NewDesignator=J47
+Change Component Designator: OldDesignator=J54 NewDesignator=J48
+Change Component Designator: OldDesignator=J61 NewDesignator=J41
+Change Component Designator: OldDesignator=J62 NewDesignator=J63
+Change Component Designator: OldDesignator=J63 NewDesignator=J64
+Change Component Designator: OldDesignator=J64 NewDesignator=J65
+Change Component Designator: OldDesignator=J65 NewDesignator=J66
+Change Component Designator: OldDesignator=J66 NewDesignator=J67
+Change Component Designator: OldDesignator=J67 NewDesignator=J68
+Change Component Designator: OldDesignator=J68 NewDesignator=J75
+Change Component Designator: OldDesignator=J69 NewDesignator=J76
+Change Component Designator: OldDesignator=J70 NewDesignator=J77
+Change Component Designator: OldDesignator=J71 NewDesignator=J78
+Change Component Designator: OldDesignator=J72 NewDesignator=J79
+Change Component Designator: OldDesignator=J73 NewDesignator=J80
+Change Component Designator: OldDesignator=J74 NewDesignator=J69
+Change Component Designator: OldDesignator=J75 NewDesignator=J70
+Change Component Designator: OldDesignator=J76 NewDesignator=J71
+Change Component Designator: OldDesignator=J77 NewDesignator=J72
+Change Component Designator: OldDesignator=J78 NewDesignator=J73
+Change Component Designator: OldDesignator=J79 NewDesignator=J74
+Change Component Designator: OldDesignator=J80 NewDesignator=J42
+Change Component Designator: OldDesignator=J81 NewDesignator=J61
+Change Component Designator: OldDesignator=J82 NewDesignator=J62
+Change Component Designator: OldDesignator=J83 NewDesignator=J81
+Change Component Designator: OldDesignator=J84 NewDesignator=J82
+Change Component Designator: OldDesignator=J85 NewDesignator=J83
+Change Component Designator: OldDesignator=J86 NewDesignator=J84
+Change Component Designator: OldDesignator=J87 NewDesignator=J85
+Change Component Designator: OldDesignator=J88 NewDesignator=J86
+Change Component Designator: OldDesignator=J89 NewDesignator=J87
+Change Component Designator: OldDesignator=J90 NewDesignator=J88
+Change Component Designator: OldDesignator=J91 NewDesignator=J89
+Change Component Designator: OldDesignator=J92 NewDesignator=J90
+Change Component Designator: OldDesignator=J93 NewDesignator=J91
+Change Component Designator: OldDesignator=J94 NewDesignator=J92
+Change Component Designator: OldDesignator=J95 NewDesignator=J93
+Change Component Designator: OldDesignator=J96 NewDesignator=J94
+Change Component Designator: OldDesignator=J97 NewDesignator=J95
+Change Component Designator: OldDesignator=J98 NewDesignator=J96
+Change Component Designator: OldDesignator=J99 NewDesignator=J97
+Change Component Designator: OldDesignator=J100 NewDesignator=J98
+Change Component Designator: OldDesignator=J101 NewDesignator=J99
+Change Component Designator: OldDesignator=J102 NewDesignator=J100
+Change Component Designator: OldDesignator=U5 NewDesignator=U6
+Change Component Designator: OldDesignator=U6 NewDesignator=U5
+Added Pin To Net: NetName=NetJ37_1 Pin=J37-1
+Added Pin To Net: NetName=NetJ38_1 Pin=J38-1
+Added Pin To Net: NetName=NetJ39_1 Pin=J39-1
+Added Pin To Net: NetName=NetJ40_1 Pin=J40-1
+Add Pin To Net: Unknown Pin: Pin P1-2
+Add Pin To Net: Unknown Pin: Pin P1-3
+Change Net Name : Old Net Name=NetJ43_1 New Net Name=NetJ49_1
+Change Net Name : Old Net Name=NetJ44_1 New Net Name=NetJ50_1
+Change Net Name : Old Net Name=NetJ45_1 New Net Name=NetJ51_1
+Change Net Name : Old Net Name=NetJ46_1 New Net Name=NetJ52_1
+Change Net Name : Old Net Name=NetJ47_1 New Net Name=NetJ53_1
+Change Net Name : Old Net Name=NetJ48_1 New Net Name=NetJ54_1
+Change Net Name : Old Net Name=NetJ49_1 New Net Name=NetJ43_1
+Change Net Name : Old Net Name=NetJ50_1 New Net Name=NetJ44_1
+Change Net Name : Old Net Name=NetJ51_1 New Net Name=NetJ45_1
+Change Net Name : Old Net Name=NetJ52_1 New Net Name=NetJ46_1
+Change Net Name : Old Net Name=NetJ53_1 New Net Name=NetJ47_1
+Change Net Name : Old Net Name=NetJ54_1 New Net Name=NetJ48_1
+Change Net Name : Old Net Name=NetJ61_1 New Net Name=NetJ41_1
+Change Net Name : Old Net Name=NetJ62_1 New Net Name=NetJ63_1
+Change Net Name : Old Net Name=NetJ63_1 New Net Name=NetJ64_1
+Change Net Name : Old Net Name=NetJ64_1 New Net Name=NetJ65_1
+Change Net Name : Old Net Name=NetJ65_1 New Net Name=NetJ66_1
+Change Net Name : Old Net Name=NetJ66_1 New Net Name=NetJ67_1
+Change Net Name : Old Net Name=NetJ67_1 New Net Name=NetJ68_1
+Change Net Name : Old Net Name=NetJ68_1 New Net Name=NetJ75_1
+Change Net Name : Old Net Name=NetJ69_1 New Net Name=NetJ76_1
+Change Net Name : Old Net Name=NetJ70_1 New Net Name=NetJ77_1
+Change Net Name : Old Net Name=NetJ71_1 New Net Name=NetJ78_1
+Change Net Name : Old Net Name=NetJ72_1 New Net Name=NetJ79_1
+Change Net Name : Old Net Name=NetJ73_1 New Net Name=NetJ80_1
+Change Net Name : Old Net Name=NetJ74_1 New Net Name=NetJ69_1
+Change Net Name : Old Net Name=NetJ75_1 New Net Name=NetJ70_1
+Change Net Name : Old Net Name=NetJ76_1 New Net Name=NetJ71_1
+Change Net Name : Old Net Name=NetJ77_1 New Net Name=NetJ72_1
+Change Net Name : Old Net Name=NetJ78_1 New Net Name=NetJ73_1
+Change Net Name : Old Net Name=NetJ79_1 New Net Name=NetJ74_1
+Change Net Name : Old Net Name=NetJ80_1 New Net Name=NetJ42_1
+Change Net Name : Old Net Name=NetJ81_1 New Net Name=NetJ61_1
+Change Net Name : Old Net Name=NetJ82_1 New Net Name=NetJ62_1
